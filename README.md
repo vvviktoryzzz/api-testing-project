@@ -30,6 +30,19 @@
 * Валидация входных данных
 * Positive / Negative scenarios
 
+## Postman Requests
+
+В Postman Collection содержится **8 API-запросов**:
+
+* GET — Get all posts
+* GET — Get post by ID
+* GET — Get non-existing post
+* POST — Create post
+* POST — Create post without title
+* PUT — Update post
+* PATCH — Update post title
+* DELETE — Delete post
+
 ## Результаты тестирования
 
 Всего создано **10 test cases**:
