@@ -16,7 +16,7 @@
 
 ## Что тестировалось
 
-* GET — получение списка данных
+* GET — получение списка ресурсов
 * GET — получение конкретного ресурса
 * GET — обработка запроса к несуществующему ресурсу
 * POST — создание нового ресурса
@@ -58,7 +58,6 @@
 
 * [Checklist](checklist.md)
 * [Test Cases](test-cases.md)
-* [Bug Reports](bug-reports.md)
 * [Postman Collection](postman/collection.json)
 
 ## Использованные подходы
@@ -83,7 +82,6 @@ api-testing-project/
 ├── README.md
 ├── checklist.md
 ├── test-cases.md
-├── bug-reports.md
 └── postman/
     └── collection.json
 ```
